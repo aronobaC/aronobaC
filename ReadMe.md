@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a CRUD app.<br>I'm currently learning some CTF stuff.<br>I hope to learn something new every day.
+📌 I'm currently working on a CRUD app.<br>🐱‍👤 I'm currently learning some CTF stuff.<br>✨ I hope to learn something new every day.
 
 
 # 💻 Tech Stack:
